@@ -1,0 +1,21 @@
+﻿{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ai-swe-effort",
+  "version": "1.0.0",
+  "description": "Universal AI Software Engineering workflow combined with dynamic effort scaling, multi-agent team roles, docs/AGENT_SYNC.md blackboard, and Caveman 2.0 token compression.",
+  "owner": {
+    "name": "BobBieNeno"
+  },
+  "plugins": [
+    {
+      "name": "ai-swe-effort",
+      "description": "Universal AI SWE Workflow Ã— Open-Effort Ã— Caveman 2.0 (Dynamic Effort Scaling, Team Roles, docs/AGENT_SYNC.md, Security & Legal Safety Gates)",
+      "version": "1.0.0",
+      "author": {
+        "name": "BobBieNeno"
+      },
+      "homepage": "https://github.com/BobBieNeno/ai-swe-effort-claude",
+      "source": "./"
+    }
+  ]
+}
