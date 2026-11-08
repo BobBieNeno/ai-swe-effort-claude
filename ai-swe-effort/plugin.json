@@ -1,0 +1,12 @@
+{
+  "name": "ai-swe-effort",
+  "displayName": "AI SWE Workflow & Effort Scaling",
+  "version": "1.0.0",
+  "description": "Universal AI Software Engineering workflow with dynamic effort scaling, subagent token optimization (flash/flash_lite delegation), automated failure escalation, and human-in-the-loop safety gates for any project.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "สำรวจสถาปัตยกรรมของโปรเจกต์นี้และสรุป convention หลักให้หน่อย",
+    "วางแผนเพิ่มฟีเจอร์ใหม่ตามมาตรฐาน AI SWE Workflow โดยใช้ Subagent ช่วยสำรวจโค้ด",
+    "ตรวจสอบความเสี่ยงด้าน Security, PII และจุดที่อาจเกิด bug ในโมดูลนี้"
+  ]
+}

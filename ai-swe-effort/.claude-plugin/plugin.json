@@ -1,0 +1,8 @@
+{
+  "name": "ai-swe-effort",
+  "version": "1.0.0",
+  "description": "Universal AI Software Engineering workflow with dynamic effort scaling, Multi-Agent team roles (Haiku/Sonnet subagents), docs/AGENT_SYNC.md blackboard, Caveman 2.0 token compression, automated failure escalation, and Legal/Security safety gates.",
+  "author": {
+    "name": "AI SWE Effort"
+  }
+}
